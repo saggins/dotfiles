@@ -1,3 +1,9 @@
-- clean: []
-- link: {}
+- default:
+  link:
+    relink: true
+
+- clean: ['~']
+
+- link:
+  ~/.bashrc: bashrc
 - shell: []
