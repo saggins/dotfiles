@@ -1,11 +1,11 @@
-- default:
-  link:
-    relink: true
-    create: true
+- defaults:
+    link:
+        relink: true
+        create: true
 
 - clean: ['~', '~/.config/']
 
 - link:
-  ~/.bashrc: bashrc
-  ~/.config/i3: i3/config
+    ~/.bashrc: bash/bashrc
+    ~/.config/i3/config: i3/config
 - shell: []
