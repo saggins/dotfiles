@@ -1,0 +1,7 @@
+#!/bin/bash
+
+PATH=$PATH
+PATH+=":/$HOME/eclipse"
+PATH+=":$HOME/.poetry/bin"
+
+export PATH
