@@ -7,5 +7,6 @@
 
 - link:
     ~/.bashrc: bash/bashrc
+        force: true
     ~/.config/i3/config: i3/config
 - shell: []
