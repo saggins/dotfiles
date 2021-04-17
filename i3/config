@@ -237,8 +237,8 @@ bindsym $mod+ctrl+8 sticky toggle focus
 # Main
 exec --no-startup-id i3-msg 'workspace 3; exec /usr/bin/firefox'
 exec --no-startup-id i3-msg 'workspace 1; exec /usr/games/steam'
-
-focus_follows_mouse yes
+exec --no-startup-id i3-msg 'workspace 1; exec /usr/bin/discord
+exec --no-startup-id i3-msg 'workspace 1; exec /usr/bin/caprine'
 
 # Binds
 bindsym Mod4+Shift+s exec "flameshot gui"
