@@ -8,4 +8,5 @@
 - link:
     ~/.bashrc: bash/bashrc
     ~/.config/i3/config: i3/config
+    ~/.vimrc: vim/vimrc
 - shell: []

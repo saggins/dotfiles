@@ -1,0 +1,8 @@
+" Enable syntax highlighting
+if has('syntax')
+  syntax on
+endif
+
+
+" other usefull things
+set number
