@@ -91,7 +91,10 @@
     arc-kde-theme
     vscode-with-extensions
     eclipses.eclipse-java
-
+    zoom-us
+    poetry
+    libvirt
+    virt-manager
   ];
   # Some programs need SUID wrappers, can be configured further or are
   # started in user sessions.
