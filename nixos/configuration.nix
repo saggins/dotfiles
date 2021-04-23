@@ -90,6 +90,8 @@
     python3
     arc-kde-theme
     vscode-with-extensions
+    eclipses.eclipse-java
+
   ];
   # Some programs need SUID wrappers, can be configured further or are
   # started in user sessions.
